@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img scr="https://github.com/GWizard90/GWizard90/blob/main/180c52fb7998000d8dce2397575b3f262ce3987761bebb9b5d4f92b285e2487f.gif" alt="gif" witdh="200">
+<img scr="https://github.com/GWizard90/GWizard90/blob/main/ce351f9e3c272544768dd94411767547ba18785567cc698d5710e22263155188.gif" alt="gif" witdh="200">
