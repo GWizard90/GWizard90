@@ -4,3 +4,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GWizard90&show_icons=true&theme=dark)
+
+![Static Badge](https://img.shields.io/badge/py-python-brightgreen?logo=python)
+
